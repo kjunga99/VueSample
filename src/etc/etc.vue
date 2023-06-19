@@ -73,7 +73,7 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import data from './assets/oneroom.js'
+import data from '../assets/oneroom.js'
 
 
 export default {
