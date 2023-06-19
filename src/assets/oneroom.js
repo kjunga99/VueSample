@@ -1,5 +1,5 @@
-export default [{
-    id : 0,
+export default [{  // default 로 지정하면 import 할때 작명
+    id : 0, 
     title: "Sinrim station 30 meters away",
     image: "https://codingapple1.github.io/vue/room0.jpg",
     content: "18년 신축공사한 남향 원룸 ☀️, 공기청정기 제공",
